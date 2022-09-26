@@ -1,0 +1,11 @@
+main section p {
+    width: 400px;
+    background-color: blue;
+    padding: 20px;
+    border-left: 2px;
+    border-right: 2px;
+    border-style: solid;
+    border-color: rgb(8, 8, 7);
+    margin: 20px;
+
+}
